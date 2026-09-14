@@ -1,0 +1,2 @@
+# MW-Japanese-Bridge
+日本語版MWにNFSPatcherを適用したうえで、日本語でCTDなしで動作するようにするバイパススクリプトです。
