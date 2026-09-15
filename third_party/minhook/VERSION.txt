@@ -1,0 +1,3 @@
+MinHook 1.3.4
+Source commit: c3fcafdc10146beb5919319d0683e44e3c30d537
+Source URL: https://github.com/TsudaKageyu/minhook/releases/tag/v1.3.4

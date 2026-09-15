@@ -1,0 +1,22 @@
+# Visual Studio build output
+artifacts/
+.vs/
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
+
+# Local release output
+dist/
+
+# Runtime and game-owned files
+*.log
+*.vp6
+*.bun
+*.lzc
+*.big
+*.idx
+*.evt
+speed.exe
+speed_*.exe
+nfsMW.exe
