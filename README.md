@@ -111,6 +111,11 @@ Visual StudioのC++ x86ツールチェーンを導入し、PowerShellで実行�
 
 ## ライセンスと権利
 
-本プロジェクト全体には現時点でオープンソースライセンスを設定していません。
-MinHookには同梱のBSD 2-Clause Licenseが適用されます。ゲームおよび各第三者MODの
-権利はそれぞれの権利者に帰属します。詳細は[THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)を参照してください。
+本プロジェクトの独自コードと文書は[MIT License](LICENSE)で公開します。
+MinHookには同梱のBSD 2-Clause Licenseが適用されます。MIT Licenseはゲーム資産、
+NFSPatcher、ASI Loader、Widescreen Fix、その他の第三者MODに関する権利を付与しません。
+詳細は[THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)を参照してください。
+
+Original project code and documentation are licensed under the [MIT License](LICENSE).
+MinHook remains under its bundled BSD 2-Clause License. The MIT License grants no
+rights to game assets, NFSPatcher, an ASI loader, Widescreen Fix, or other third-party mods.

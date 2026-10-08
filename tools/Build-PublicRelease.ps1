@@ -49,6 +49,7 @@ Copy-Required (Join-Path $root 'artifacts\Release\version.dll') (Join-Path $stag
 Copy-Required (Join-Path $root 'artifacts\Release\NFSMWJapaneseBridge.asi') (Join-Path $stage 'payload\scripts\NFSMWJapaneseBridge.asi')
 Copy-Required (Join-Path $root 'NFSMWJapaneseBridge.ini') (Join-Path $stage 'payload\scripts\NFSMWJapaneseBridge.ini')
 Copy-Required (Join-Path $root 'README.md') (Join-Path $stage 'README.md')
+Copy-Required (Join-Path $root 'LICENSE') (Join-Path $stage 'LICENSE')
 Copy-Required (Join-Path $root 'THIRD_PARTY_NOTICES.md') (Join-Path $stage 'THIRD_PARTY_NOTICES.md')
 Copy-Required (Join-Path $root 'installer\Install-JPBase.cmd') (Join-Path $stage 'Install.cmd')
 Copy-Required (Join-Path $root 'installer\Uninstall.cmd') (Join-Path $stage 'Uninstall.cmd')

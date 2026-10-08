@@ -21,6 +21,7 @@ $required = @(
     'Uninstall-NFSMWJapaneseBridge.ps1',
     'ShaderResourceRestorer.ps1',
     'README.md',
+    'LICENSE',
     'payload-manifest.json'
 )
 foreach ($relative in $required) {
